@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initialscale=1.0">
+<title>Ques20 - 1</title>
+<style>
+.text-shadow-example
+{
+text-shadow: 4px 10px 12px red;
+font-size: 30px;
+font-style: bold;
+}
+</style>
+</head>
+<body>
+<h1>23MCA0245</h1>
+<span class="text-shadow-example">new features in
+CSS</span>
+</body>
+</html>
